@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... aakashverma3105@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finished !!
--->
+
+follow me on :- 
+Linkdin - https://www.linkedin.com/in/aakash-verma-9204041a3/
