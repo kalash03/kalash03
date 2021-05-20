@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am half finished !!
 
 follow me on :- 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-verma-9204041a3/)](https://www.linkedin.com/in/aakash-verma-9204041a3/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash-verma)](https://www.linkedin.com/in/aakash-verma)
 [![Gmail Badge](https://img.shields.io/badge/-PiyushPathak-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:anirudhrapathak@gmail.com)**
