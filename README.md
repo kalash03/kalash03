@@ -1,7 +1,7 @@
 ### Here is What I'm working on !👋
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a data analytics professional offering 2+ years of experience in descriptive & predictive Analytics. Corrently Pursuing PGDS in Data Science from MAHE. Also,worked in pivotal roles that required simplifying the business functions, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in a roles i.e. Data Scientist, 
+I'm a data analytics professional offering 2+ years of experience in descriptive & predictive Analytics. Currently, Pursuing PGDS in Data Science from MAHE. Also,worked in pivotal roles that required simplifying the business functions, competitive analysis and risk management of Business .Skilled with ability to interact with personnel from different backgrounds and supported organizations in drafting and allocating resources necessary to attain their long and short terms goals and has been involved in a roles i.e. Data Scientist, 
 Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective.
 
 Here are some ideas to get you started:
